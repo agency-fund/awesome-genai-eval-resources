@@ -80,7 +80,6 @@
 - **[UK AISI Sandboxing Framework](https://github.com/UKGovernmentBEIS/aisi-sandboxing)** – Policy-compliant sandbox toolkit for testing AI systems under safe oversight.
 
 ## Ideas, Strategy & Frameworks
-- **Strategic directions from Richard** – Model evaluation: explore large context windows & contextual bandits for personalization; User evaluation: embed validated self-efficacy scales plus behavioral indices; Impact evaluation: expand real-world outcomes datasets beyond MPESA to capture AI-induced change.
 - **[Social Impact Frameworks Booklet](https://elgonsocial.wordpress.com/wp-content/uploads/2025/03/frameworksbooklet_v2.pdf)** – Digest of social intervention frameworks useful for scoping AI impact pathways.
 - **[EJSP Article on Human Agency & Behavior](https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.2561)** – Scholarship on agency, motivation, and social behavior to inform Level 3/4 evaluations.
 
