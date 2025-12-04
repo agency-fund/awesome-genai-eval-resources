@@ -2,7 +2,7 @@
 
 > Curated resources for building, stress-testing, and governing generative AI systems aimed at social impact, with a focus on transparent evaluation practices.
 
-> See also The Agency Fund's [AI Evaluation in the Social Sector Playbook](eval.playbook.org.ai), and [updated slide deck] (https://agency-fund.github.io/taf-ai-eval-slides/#1) based on expert feedback.
+> See also The Agency Fund's [AI Evaluation in the Social Sector Playbook](eval.playbook.org.ai), and [updated slide deck](https://agency-fund.github.io/taf-ai-eval-slides/#1) based on expert feedback.
 
 ## How to Use This List
 - Navigate via the table of contents to find platforms, benchmarks, or governance resources.
