@@ -24,9 +24,7 @@
 - **[The MoOVE Collaboration Platform](https://jointhemoove.org/Collaboration)** – Health innovation workspace featuring “health goldens,” shared evaluation infrastructure, and data partnerships for global health implementers.
 - **[MMORE RAG (Swiss-AI / Light Laboratory)](https://github.com/swiss-ai/mmoreRAG)** – Open-source Retrieval-Augmented Generation management framework tuned for clinical and health data contexts.
 - **[Dimagi Chat Studio](https://www.dimagi.com/)** & **[Gooey.AI](https://www.gooey.ai/)** – Gates Foundation–aligned efforts to embed evaluation workflows directly into low-code AI builders, signaling demand for standardized evaluability tooling.
-- **[Gmail reference thread: Gates discussions](https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzQbgcRfFddvNpCwNSVvmtxsRVbf)** – Internal funding conversations around open-source evaluation infrastructure (requires authorized access).
 - **[Google Model Cards Explorer](https://modelcards.withgoogle.com/explore-a-model-card)** – Repository of model-card templates that inform disclosure for ChatSEL or other social impact deployments.
-- **[Product Cards (Agency Fund)](https://www.notion.so/Product-Cards-26a6311d558d80b69887d8ef3c898108)** – Notion-based templates covering purpose, data flows, metrics, risks, and evaluation plans for social tech products.
 - **[HumanTruths.ai](https://humantruths.ai/)** – Benchmark initiative centering human values and perceptions; valuable for grounding LLM evaluations in culturally aware semantics.
 - **[Google STAX](https://stax.withgoogle.com/landing/index.html)** – Stress-testing tool for probing LLM safety, robustness, and retrieval alignment.
 - **[Intron Benchmarks](https://www.intron.io/#benchmarks)** – Voice, speech, and healthcare workflow benchmark suite for multimodal models.
